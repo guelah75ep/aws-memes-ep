@@ -177,7 +177,7 @@ class MainPage extends React.Component {
       <div>
         <div className="main-content">
           <div className="sidebar">
-            <NavbarBrand href="/">Meme-Maker</NavbarBrand>
+            <NavbarBrand href="/">May May - Maker</NavbarBrand>
             <p>
               Create your own memes powered by AWS Amplify.
             </p>
