@@ -4,6 +4,7 @@ import { Modal, ModalHeader, ModalBody, FormGroup, Label, NavbarBrand } from 're
 const photos = [
   { src: '/images/vict-baby.png' },
   { src: '/images/ned.jpeg' },
+  { src: '/images/thecloud.png' },
   { src: '/images/devilgirl.jpg' },
   { src: '/images/trump.jpg' },
   { src: '/images/one-does-not.jpg' },
@@ -176,21 +177,12 @@ class MainPage extends React.Component {
       <div>
         <div className="main-content">
           <div className="sidebar">
-            <NavbarBrand href="/">Greengo-Memes</NavbarBrand>
+            <NavbarBrand href="/">Meme-Maker</NavbarBrand>
             <p>
               Create your own memes powered by AWS Amplify.
             </p>
             <p>
               You can add top and bottom text to a meme-template, move the text around and can save the image by downloading it.
-            </p>
-            <p>
-              Created by Blake Green
-            </p>
-            <p>
-              <a href="https://greengocloud.com">GreenGoCloud Website</a>
-            </p>
-            <p>
-              <a href="https://twitter.com/TSgt_Green">Twitter @TSgt_Green</a>
             </p>
           </div>
           <div className="content">
