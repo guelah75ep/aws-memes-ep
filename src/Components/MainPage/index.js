@@ -23,6 +23,7 @@ const photos = [
   { src: '/images/thinker.png' },
   { src: '/images/frust.png' },
   { src: '/images/web.png' },
+  { src: '/images/78784722.jpeg' },
   { src: '/images/penguin.png' }
 ];
 
